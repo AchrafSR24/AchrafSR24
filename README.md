@@ -1,4 +1,3 @@
-[![MasterHead](https://www.linkedin.com/in/sakka-rouis-achraf-918678244/overlay/background-image/)]
 <h1 align="center">Hi 👋, I'm Achraf Sakka Rouis</h1>
 <h3 align="center">Web developer | AI & Data Science Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
