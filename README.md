@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achraf Sakka Rouis</h1>
-<h3 align="center">Web developer | AI & Data Science Engineering Student</h3>
+<h3 align="center">Web developer | AI & Data Science Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achrafsr24&label=Profile%20views&color=0e75b6&style=flat" alt="achrafsr24" /> </p>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react , API , AI , ML**
 
-- 📫 How to reach me **achraf.sakkarouis@polytechnicien.tn**
+- 📫 How to reach me **achrafsr24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
